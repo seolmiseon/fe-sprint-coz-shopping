@@ -1,0 +1,16 @@
+.header-container{
+    max-width: 1280px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position:sticky;
+padding: 0 76px;
+box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+
+}
+span.title-coz {
+    font-size: 2rem;
+    font-weight: 700;
+    padding-left: 12px;
+}
